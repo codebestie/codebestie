@@ -1,4 +1,5 @@
-![MasterHead](https://arkevo-group.com/wp-content/uploads/2022/02/ezgif.com-gif-maker.gif)
+<img src="https://github.com/ravishankar-11/ravishankar-11/blob/main/codegif1.gif" alt="banner that says Ravishankar Kushwah - Frontend developer, Freelancer, web designer">
+
 <h1 align="center">Hi 👋, I'm Ravishankar Kushwah</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="code" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"
