@@ -1,6 +1,6 @@
 <img src="https://github.com/ravishankar-11/ravishankar-11/blob/main/codegif1.gif" alt="banner that says Ravishankar Kushwah - Frontend developer, Freelancer, web designer">
 
-<h1 align="center">Hi 👋, I'm Ravishankar Kushwah</h1>
+<h1 align="center">Hi 👋, I'm Code Bestie</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="code" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"
 
@@ -8,23 +8,27 @@
 
 <p align="left"> <a href="https://twitter.com/ravishankar1103" target="blank"><img src="https://img.shields.io/twitter/follow/ravishankar1103?logo=twitter&style=for-the-badge" alt="ravishankar1103" /></a> </p>
 
-- 🔭 I’m currently working on **Recruitment Portal**
+- 🔭 I’m currently working on **YouTube Channel Code Bestie**
 
 - 🌱 I’m currently learning **React Js**
 
 - 💬 Ask me about **Frontend, MERN Developer**
 
-- 📫 How to reach me **ravishankarkushwah117@gmail.com**
+- 📫 How to reach me **https://www.instagram.com/codebestie_/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <!--
 <a href="https://twitter.com/ravishankar1103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ravishankar1103" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/ravishankar-kushwah-042230223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ravishankar-kushwah-042230223" height="30" width="40" /></a>
-<a href="https://instagram.com/coderavii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coderavii" height="30" width="40" /></a>
+  -->
+<a href="https://instagram.com/codebestie_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codebestie_" height="30" width="40" /></a>
+  <!--
 <a href="https://dribbble.com/coderavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="coderavi" height="30" width="40" /></a>
 <a href="https://www.behance.net/ravikushwah11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ravikushwah11" height="30" width="40" /></a>
 <a href="https://medium.com/@coderavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@coderavi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/coderavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coderavi" height="30" width="40" /></a>
+  -->
+<a href="https://www.youtube.com/c/codebestie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codebestie" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
