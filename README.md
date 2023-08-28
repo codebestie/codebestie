@@ -5,8 +5,9 @@
 <img align="right" alt="code" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravishankar-03&label=Profile%20views&color=0e75b6&style=flat" alt="ravishankar-03" /> </p>
-
+<!--
 <p align="left"> <a href="https://twitter.com/ravishankar1103" target="blank"><img src="https://img.shields.io/twitter/follow/ravishankar1103?logo=twitter&style=for-the-badge" alt="ravishankar1103" /></a> </p>
+-->
 
 - 🔭 I’m currently working on **YouTube Channel Code Bestie**
 
